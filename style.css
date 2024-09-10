@@ -114,16 +114,6 @@ input#password:invalid:focus{
 
 }
 
-h2{
-  color: #021526;
-  padding: 10px 0px;
-  text-align: center;
-  font-family: "Roboto", sans-serif;
-  font-weight: 900;
-  font-style: normal;
-  font-size: 25px;
-}
-
 .tables-content{
   width: fit-content;
   margin: 20px auto;
